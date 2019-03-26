@@ -4,3 +4,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/lorenavegaa/programacionweb.git
 git push -u origin master
+
+
+
+git add . para actualizar
+git status(opcional para ver si esta preparado)
